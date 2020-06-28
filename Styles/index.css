@@ -17,11 +17,7 @@
     align-content: center;
 }
 
-@media (max-width: 480px) {
-    body {
-        background-image: url(https://source.unsplash.com/1440x2960/?nature,water);
-    }
-}
+
 
 
 /* CUSTOMIZE THE CAROUSEL
