@@ -17,6 +17,11 @@
     align-content: center;
 }
 
+@media (max-width: 480px) {
+    body {
+        background-image: url(https://source.unsplash.com/1440x2960/?nature,water);
+    }
+}
 
 
 /* CUSTOMIZE THE CAROUSEL
@@ -28,6 +33,7 @@
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
+  
 }
 
 /* Declare heights because of positioning of img element */
